@@ -17,7 +17,7 @@ Projeto Feito para acompanhamento de minha seleção na copa do mundo de 2022. &
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/Preview.jpg" width="100%">
+  <img alt="calendário de Jogos - Brasil" src=".github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
