@@ -153,4 +153,10 @@ transition: transform 0.3s;
     flex-direction: row;
     flex-wrap: wrap;
   }
+
+  .card h2 span {
+  color: #E1E1E6;
+  font-size: 14px;
+  text-transform: uppercase;
+}
 }
